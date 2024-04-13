@@ -5,7 +5,7 @@ public class Cliente {
 		private String profissao;
 		
 		public void setNome(String novoNome) {
-			this.nome = novoNome;
+			this.nome = novoNome
 		}
 		
 		public String getNome() {
