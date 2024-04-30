@@ -16,5 +16,7 @@ public class TesteGerente {
 		System.out.println("Autencicação: " + autenticou);
 		
 		System.out.println("Bonificação: " + g1.getbonificacao());
+		
+		
 	}
 }
