@@ -1,14 +1,13 @@
 
-public class Funcionario {
+//Classe abstrata
+public abstract class  Funcionario { 
 
 	private String nome;
 	private String cpf;
 	protected double salario;
 	
-	
-	public double getbonificacao() {
-		return this.salario * 0.05;
-	}
+	//Método abstrato, não há implementação
+	public abstract double getBonificacao();
 	
 	public String getNome() {
 		return nome;
