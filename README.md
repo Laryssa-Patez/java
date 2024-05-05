@@ -35,4 +35,9 @@ Nesse repositório encontrará conteúdos estudados durante a formação de Java
 <li><em>Entenda o que é Polimorfismo</em></li> 
 <li><em>Aprenda sobre reescrita e herança de métodos</em></li>
 <li><em>Conheça super e protected</em></li>
+
+<div align="center">
+<img  style="margin: 10px;" src="https://github.com/LaryssaPatez/java/blob/master/Java%20Polimorfismo%20-%20Entenda%20Heran%C3%A7a%20e%20Interfaces/Image.png?raw=true" alt=""  width="350">
+</div>
+
 </details>
