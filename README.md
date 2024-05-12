@@ -35,9 +35,18 @@ Nesse repositório encontrará conteúdos estudados durante a formação de Java
 <li><em>Entenda o que é Polimorfismo</em></li> 
 <li><em>Aprenda sobre reescrita e herança de métodos</em></li>
 <li><em>Conheça super e protected</em></li>
-
 <div align="center">
 <img  style="margin: 10px;" src="https://github.com/LaryssaPatez/java/blob/master/Java%20Polimorfismo%20-%20Entenda%20Heran%C3%A7a%20e%20Interfaces/Image.png?raw=true" alt=""  width="350">
 </div>
+</details>
 
+<Sumary>
+<details>
+<summary>
+<strong>Java Exceções - aprenda a criar, lançar e controlar exceções</strong></summary>
+<ul><li><em>Conheça a pilha de execução</em></li>
+<li><em>Use o modo de depuração (debug)</em></li> 
+<li><em>Entenda o tratamento de exceções com Try Catch</em></li> 
+<li><em>Crie suas próprias exceções checked e unchecked</em></li>
+<li><em>Lance as exceções para mudar o fluxo de seu programa</em></li>
 </details>
