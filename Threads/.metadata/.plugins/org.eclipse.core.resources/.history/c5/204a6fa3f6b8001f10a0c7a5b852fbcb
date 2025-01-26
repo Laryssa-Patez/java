@@ -1,0 +1,26 @@
+package threads;
+
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("Estudo sobre programação paralela com threads");
+		
+		Thread thread = new Thread(new Runnable(){
+			@Override
+			public void run(){
+				System.out.println("Hello thread");
+			}
+		});
+		Thread thread2 = new Thread(new Runnable(){
+			@Override
+			public void run(){
+				System.out.println("Hello thread 2");
+			}
+		});
+//		thread.setPriority(Thread.MAX_PRIORITY);
+		thread.start(); //Inicia a thread
+		thread2.start(); //Inicia a thread2
+
+	}
+	
+}
