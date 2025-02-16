@@ -28,7 +28,7 @@ public class RaceConditionExample {
 		
 		thread1.start(); //Inicia a thread 1
 		thread2.start(); //Inicia a thread 2
-		 
+	
 		// a thread que está executando esse código (método main) ficará pausada até que thread1 termine sua execução.
 		thread1.join();
 		
