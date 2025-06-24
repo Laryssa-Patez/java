@@ -16,7 +16,7 @@ import java.math.BigDecimal;
 @Table (name ="pagamentos")
 @Getter
 @Setter
-@AllArgsConstructor
+//@AllArgsConstructor
 @NoArgsConstructor
 public class Pagamento {
 
