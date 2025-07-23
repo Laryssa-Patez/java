@@ -1,8 +1,22 @@
-# [Formação Java com Orientação a Objetos](https://www.alura.com.br/formacao-oracle-mysql)
+# Repositório de Estudos: Java, Spring Boot, Docker e mais
 
-Nesse repositório encontrará conteúdos estudados durante a formação de Java com orientação a objetos da [Alura](https://www.alura.com.br/).
+Repositório dedicado aos meus estudos em Java.
 
-<h2 align="left">Módulos</h2>
+Aqui você encontrará práticas envolvendo:
+
+✅ Programação com Java
+
+☕ Fundamentos da linguagem Java
+
+🌱 Desenvolvimento com Spring Boot
+
+🐳 Criação e uso de containers com Docker
+
+☁️ Integração com serviços da AWS
+
+🛠️ Boas práticas e testes automatizados
+
+<h2 align="left">🧠 Aprendizados e Aplicações Práticas</h2>
 <Sumary>
 <details>
 <summary>
@@ -54,6 +68,6 @@ Nesse repositório encontrará conteúdos estudados durante a formação de Java
 <Sumary>
 <details>
 <summary>
-<strong>Teste</strong></summary>
-<ul><li><em>Conheça a pilha de execução</em></li>
+<strong>QRCodeGenerator</strong></summary>
+<ul><li><em>add descrição</em></li>
 </details>
