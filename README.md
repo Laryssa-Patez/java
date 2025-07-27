@@ -79,9 +79,24 @@ Aqui você encontrará estudos práticos envolvendo:
 <ul><li><em>add descrição</em></li>
 </details>
 
-<Sumary>
 <details>
 <summary>
 <strong>QRCodeGenerator</strong></summary>
-<ul><li><em>add descrição</em></li>
+<ul>
+  <li><em>Aplicação desenvolvida em Java com Spring Boot, empacotada com Docker</em></li>
+  <li><em>Integração com AWS para armazenamento das imagens de QR Code</em></li>
+  <li><em>Geração de QR Codes a partir de URLs enviadas via requisição POST</em></li>
+  <li><em>Estudo prático de controllers REST, classes de serviço e integração com bibliotecas de geração de QR Code</em></li>
+  <li><em>Envie uma requisição POST para <code>http://localhost:8080/qrcode</code>, contendo no body um JSON com o campo <code>text</code> e a URL que deseja transformar em QR Code.</em></li>
+    <ul>
+      <li><em>Requisição de exemplo:</em>
+        <pre>
+  {
+    "text": "https://github.com/Laryssa-Patez"
+  }
+        </pre>
+      </li>
+    </ul>
+  <li><em>A aplicação retornará um link contendo a imagem do QR Code gerado</em></li>
+</ul>
 </details>
