@@ -14,8 +14,6 @@ Aqui você encontrará estudos práticos envolvendo:
 
 ☁️ Integração com serviços da AWS
 
-🛠️ Boas práticas e testes automatizados
-
 <h2 align="left">🧠 Aprendizados e Aplicações Práticas</h2>
 <Sumary>
 <details>
